@@ -12,4 +12,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+## Checklist
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
